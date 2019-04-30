@@ -1,0 +1,20 @@
+.header {
+    position: relative;
+    padding: auto 2%;
+    background-color: #4CAF50;
+    color: white;
+    z-index: 10;
+}
+.icon {
+    margin-right: 20px;
+    height: 40px;
+    width: 60px;
+}
+.g-navi {
+    margin: 0 15px;
+}
+
+.menu-icon {
+    position: relative;
+    right: 30px;
+}
